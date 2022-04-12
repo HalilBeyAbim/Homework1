@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\HomeWork1Csharp\HomeWork1Csharp\obj\Debug\netcoreapp3.1\HomeWork1Csharp.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\HomeWork1Csharp\HomeWork1Csharp\obj\Debug\netcoreapp3.1\HomeWork1Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\HomeWork1Csharp\HomeWork1Csharp\obj\Debug\netcoreapp3.1\HomeWork1Csharp.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\HomeWork1Csharp\HomeWork1Csharp\obj\Debug\netcoreapp3.1\HomeWork1Csharp.AssemblyInfo.cs
+C:\Users\ACER\source\repos\HomeWork1Csharp\HomeWork1Csharp\obj\Debug\netcoreapp3.1\HomeWork1Csharp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\HomeWork1Csharp\HomeWork1Csharp\bin\Debug\netcoreapp3.1\HomeWork1Csharp.exe
+C:\Users\ACER\source\repos\HomeWork1Csharp\HomeWork1Csharp\bin\Debug\netcoreapp3.1\HomeWork1Csharp.deps.json
+C:\Users\ACER\source\repos\HomeWork1Csharp\HomeWork1Csharp\bin\Debug\netcoreapp3.1\HomeWork1Csharp.runtimeconfig.json
+C:\Users\ACER\source\repos\HomeWork1Csharp\HomeWork1Csharp\bin\Debug\netcoreapp3.1\HomeWork1Csharp.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\HomeWork1Csharp\HomeWork1Csharp\bin\Debug\netcoreapp3.1\HomeWork1Csharp.dll
+C:\Users\ACER\source\repos\HomeWork1Csharp\HomeWork1Csharp\bin\Debug\netcoreapp3.1\HomeWork1Csharp.pdb
+C:\Users\ACER\source\repos\HomeWork1Csharp\HomeWork1Csharp\obj\Debug\netcoreapp3.1\HomeWork1Csharp.dll
+C:\Users\ACER\source\repos\HomeWork1Csharp\HomeWork1Csharp\obj\Debug\netcoreapp3.1\HomeWork1Csharp.pdb
+C:\Users\ACER\source\repos\HomeWork1Csharp\HomeWork1Csharp\obj\Debug\netcoreapp3.1\HomeWork1Csharp.genruntimeconfig.cache
